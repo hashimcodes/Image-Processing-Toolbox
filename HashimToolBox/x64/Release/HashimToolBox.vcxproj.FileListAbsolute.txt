@@ -1,0 +1,2 @@
+D:\Uni\Level-4\HashimToolBox\HashimToolBox\x64\Release\HashimToolBox.MyForm.resources
+D:\Uni\Level-4\HashimToolBox\HashimToolBox\x64\Release\HashimToolBox.vcxproj.GenerateResource.cache

@@ -1,0 +1,6 @@
+C:\Users\hashe\Desktop\HashimToolBox\HashimToolBox\x64\Debug\HashimToolBox.vcxproj.AssemblyReference.cache
+C:\Users\hashe\Desktop\HashimToolBox\HashimToolBox\x64\Debug\HashimToolBox.MyForm.resources
+C:\Users\hashe\Desktop\HashimToolBox\HashimToolBox\x64\Debug\HashimToolBox.vcxproj.GenerateResource.cache
+D:\Uni\Level-4\HashimToolBox\HashimToolBox\x64\Debug\HashimToolBox.vcxproj.AssemblyReference.cache
+D:\Uni\Level-4\HashimToolBox\HashimToolBox\x64\Debug\HashimToolBox.MyForm.resources
+D:\Uni\Level-4\HashimToolBox\HashimToolBox\x64\Debug\HashimToolBox.vcxproj.GenerateResource.cache
